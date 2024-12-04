@@ -2,11 +2,6 @@ import aoc
 contents = aoc.get_input(2024, 3).strip()
 del aoc
 # ---
-import aoc
-contents = aoc.get_input(2024, 3).strip()
-del aoc
-# ---
-
 tokens = contents.split("mul(")
 
 x = 0
